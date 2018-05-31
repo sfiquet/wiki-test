@@ -1,3 +1,3 @@
 # wiki-test
 
-[First Topic](Topic-One)
+[First Topic](Topic-One.md)
